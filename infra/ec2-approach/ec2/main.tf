@@ -17,7 +17,7 @@ iam_instance_profile = var.iam_instance_profile
     pip3 install flask boto3
 
     # Clone your GitHub repo
-    git clone https://github.com/pranavlonsane777/assignment.git /home/pranavlonsane/assignment/app/ec2-approach
+    git clone https://github.com/pranavlonsane777/assignment.git /home/pranavlonsane/assignment/
 
     # Navigate to app directory and run the Flask app
     cd /home/pranavlonsane/assignment/app/ec2-approach
